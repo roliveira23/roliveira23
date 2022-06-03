@@ -3,11 +3,11 @@
   <a href="https://github.com/roliveira23">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roliveira23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roliveira23&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-- 🛡️Cibersegurança (cursando)
-- 👨‍🎓 estudando HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, PYTHON e muito mais
-- 📫 Contate-me no email: rodrigodeoliveira2307@gmail.com
-- 💁‍♂️ Pronouns: ele/dele
+</div> <br><br>
+- 🛡️Cibersegurança (cursando)<br><br>
+- 👨‍🎓 estudando HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, PYTHON e muito mais.<br><br>
+- 📫 Contate-me no email: rodrigodeoliveira2307@gmail.com<br><br>
+- 💁‍♂️ Pronouns: ele/dele<br><br>
 
 <div style="display: inline_block"><br>
   
