@@ -5,7 +5,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roliveira23&layout=compact&langs_count=7&theme=dark"/>
 </div> <br><br>
 - 🛡️Cibersegurança (cursando)<br><br>
-- 👨‍🎓 estudando HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC, PYTHON e muito mais.<br><br>
+- 👨‍🎓 estudando Linux, HTML5, CSS3, PHP, MySQL, APIs, PYTHON conhecimento de Hardware e muito mais.<br><br>
 - 📫 Contate-me no email: rodrigodeoliveira2307@gmail.com<br><br>
 - 💁‍♂️ Pronouns: ele/dele<br><br>
 
